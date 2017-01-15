@@ -72,4 +72,8 @@ public class MainActivity extends AppCompatActivity {
         myPlayer.setVolume(leftVolume, rightVolume);
 
     }
+
+    public void testTest() {
+
+    }
 }
